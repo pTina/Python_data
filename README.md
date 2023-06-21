@@ -1,4 +1,6 @@
-# python
+# Python
+Python으로 데이터 학습
+<br><br>
 20201121-20201122
 - .txt파일 읽기, 쓰기
 
@@ -14,4 +16,4 @@
 
 20201130
 - dt.day_name()
-# Python_data
+
